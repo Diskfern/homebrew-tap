@@ -1,7 +1,7 @@
 
 cask "diskfern" do
   version "1.0.2"
-  sha256 "730b5e47a9cd27a5128fe90451253f88a6898e0f1c56600f92ed11aa12f4b1d1"
+  sha256 "79e57497158a3882d9e934e14aaca1d722e80cf08c5dde949cf265e07222e736"
 
   url "https://downloads.diskfern.com/releases/#{version}/Diskfern-#{version}.dmg"
   name "Diskfern"
