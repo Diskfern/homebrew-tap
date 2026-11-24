@@ -13,9 +13,11 @@ No manual DMG downloads or installation steps required.
 Copy and run the following command in Terminal:
 
 ```bash
-brew tap diskfern/tap && \
-brew trust diskfern/tap && \
-brew install --cask diskfern && \
+brew install --cask diskfern/tap/diskfern
+```
+#To open:
+
+```
 open -a Diskfern
 ```
 
