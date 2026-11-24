@@ -15,7 +15,7 @@ Copy and run the following command in Terminal:
 ```bash
 brew install --cask diskfern/tap/diskfern
 ```
-###To open:
+### To open:
 
 ```
 open -a Diskfern
